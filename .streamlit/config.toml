@@ -1,0 +1,29 @@
+[theme]
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFontWeights = [700, 600, 600, 600, 600, 600]
+metricValueFontWeight = 600
+baseRadius = "0.6rem"
+buttonRadius = "0.6rem"
+showWidgetBorder = true
+showSidebarBorder = true
+linkUnderline = false
+
+[theme.light]
+primaryColor = "#0f7a3d"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f7f4"
+textColor = "#14231a"
+borderColor = "#d8e3dc"
+linkColor = "#0f7a3d"
+dataframeHeaderBackgroundColor = "#e8f1eb"
+chartCategoricalColors = ["#0f7a3d", "#2f6fdb", "#d97706", "#9333ea", "#dc2626", "#0d9488"]
+
+[theme.dark]
+primaryColor = "#1a8f4c"
+backgroundColor = "#0e1511"
+secondaryBackgroundColor = "#16211a"
+textColor = "#e6efe9"
+borderColor = "#2a3a30"
+linkColor = "#4cc47e"
+dataframeHeaderBackgroundColor = "#1c2a21"
+chartCategoricalColors = ["#4cc47e", "#6aa1ff", "#f5a524", "#b57bff", "#f87171", "#2dd4bf"]
